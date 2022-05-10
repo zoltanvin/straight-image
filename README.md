@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/zolvin/straight-image"><img src="https://github.com/zolvin/straight-image/blob/main/logo.webp" alt="Image rotator" width="200"></a>
+  <a href="https://github.com/zoltanvin/straight-image"><img src="https://github.com/zoltanvin/straight-image/blob/main/logo.webp" alt="Image Totator" width="200"></a>
   <br>
   Image Rotator
   <br>
@@ -16,7 +16,7 @@
   <a href="#technologies-and-tools-%EF%B8%8F">Technologies and Tools</a>
 </p>
 
-![screenshot](https://github.com/zolvin/straight-image/blob/main/demo.gif)
+![screenshot](https://github.com/zoltanvin/straight-image/blob/main/demo.gif)
 
 # Key Features 🔑
 
@@ -32,7 +32,7 @@
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page
 - After the successful installation of `python`, clone the repository into your local system using below command:
   - ```
-     git clone https://github.com/zolvin/straight-image.git
+     git clone https://github.com/zoltanvin/straight-image.git
     ```
   - This will clone the whole repository in your system
 - To download required dependencies to your system, execute following commands:
